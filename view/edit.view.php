@@ -48,7 +48,7 @@
                         <input type="number" name="biology" value="<?=$biology?>" class="form-control mb-4">
                         <label for="higher_math">Higher Math</label>
                         <input type="number" name="higher_math" value="<?=$higher_math?>" class="form-control mb-4">
-                        <input type="submit" name="submit" value="Submit" class="btn btn-outline-info w-100">
+                        <input type="submit" name="submit" value="Submit" class="btn btn-outline-info w-100"> 
                     </form>
                 </div>
             </div>
